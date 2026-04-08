@@ -1,0 +1,13 @@
+{
+  "segments": {
+    "Segment 1": {
+      "verdict": "PASS_WITH_ISSUES",
+      "best_attempt": "v3",
+      "issues": ["字幕", "看镜头(末尾)"],
+      "attempts": 3
+    }
+  },
+  "overall": "PASS_WITH_ISSUES",
+  "total_segments": 1,
+  "passed": 1
+}
