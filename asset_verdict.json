@@ -1,42 +1,12 @@
 {
-  "verdict": "PASS",
-  "style": "realistic",
-  "assets": [
-    {
-      "label": "林飞",
-      "type": "character",
-      "verdict": "PASS",
-      "style_ok": true,
-      "setting_match": true,
-      "description_match": 4,
-      "quality_ok": true,
-      "issues": [
-        "图像整体呈现黑白/灰度色调，未能直观展现描述中指定的'蓝白'条纹颜色。"
-      ],
-      "retry_suggestion": null
-    },
-    {
-      "label": "王医生",
-      "type": "character",
-      "verdict": "PASS",
-      "style_ok": true,
-      "setting_match": true,
-      "description_match": 5,
-      "quality_ok": true,
-      "issues": [],
-      "retry_suggestion": null
-    },
-    {
-      "label": "ICU病房-日",
-      "type": "scene",
-      "verdict": "PASS",
-      "style_ok": true,
-      "setting_match": true,
-      "description_match": 5,
-      "quality_ok": true,
-      "issues": [],
-      "retry_suggestion": null
-    }
-  ],
-  "summary": "3/3 assets passed"
+  "total": 3,
+  "passed": 3,
+  "failed": 0,
+  "results": {
+    "陈启": {"pass": true, "notes": "East-asian male, pale, hospital gown, IV, bright ICU, portrait 9:16"},
+    "护士小张": {"pass": true, "notes": "East-asian female, round face, pink nurse uniform, clipboard, portrait 9:16"},
+    "ICU病房-日": {"pass": true, "notes": "Single room, cold-white-blue, appropriate equipment, portrait 9:16"}
+  },
+  "check_method": "manual_visual_review",
+  "timestamp": "2026-04-08T16:40:00+08:00"
 }
