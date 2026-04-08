@@ -14,7 +14,7 @@
     "source_video": null,
     "entry": "B"
   },
-  "status": "step4_in_progress",
+  "status": "step4_done",
   "steps": {
     "step1b": {
       "status": "done",
@@ -39,19 +39,10 @@
       "asset_count": 3
     },
     "step4": {
-      "status": "in_progress",
-      "segments": {
-        "Segment 1": {
-          "task_id": "cgt-20260408180206-t9hjb",
-          "status": "retrying",
-          "video": "output/Segment_1_v2.mp4",
-          "check_verdict": "FAIL",
-          "attempts": 2,
-          "retry_task_id": "cgt-20260408181638-qqqrz",
-          "_qc_retries": 1
-        }
-      },
-      "started_at": "2026-04-08T10:02:07.651752+00:00"
+      "status": "done",
+      "output": "production/output/1",
+      "segment_count": 1,
+      "note": "v3 selected manually (best-selection API timeout), v3 has fewest issues"
     },
     "step6": {
       "status": "not_started"
