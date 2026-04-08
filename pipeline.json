@@ -1,0 +1,35 @@
+{
+  "project": "exp1070-xiuxian-startup",
+  "created_at": "2026-04-08T06:42:41.481695+00:00",
+  "github_repo": "ykzhujiang/exp1070-xiuxian-startup",
+  "config": {
+    "theme": "现代创业者猝死后醒来发现创业经历对应修仙体系，ICU中激活修仙创业系统",
+    "genre": "comedy",
+    "style": "realistic",
+    "duration": 15,
+    "characters": 2,
+    "setting": "现代中国·医院ICU",
+    "ratio": "9:16",
+    "episode": "ep01",
+    "source_video": null,
+    "entry": "B"
+  },
+  "status": "not_started",
+  "steps": {
+    "step1b": {
+      "status": "not_started"
+    },
+    "step1.5": {
+      "status": "not_started"
+    },
+    "step3": {
+      "status": "not_started"
+    },
+    "step4": {
+      "status": "not_started"
+    },
+    "step6": {
+      "status": "not_started"
+    }
+  }
+}
