@@ -14,7 +14,7 @@
     "source_video": null,
     "entry": "B"
   },
-  "status": "step4_done",
+  "status": "done",
   "steps": {
     "step1b": {
       "status": "done",
@@ -45,7 +45,11 @@
       "note": "v3 selected manually (best-selection API timeout), v3 has fewest issues"
     },
     "step6": {
-      "status": "not_started"
+      "status": "done",
+      "started_at": "2026-04-08T10:37:12.731794+00:00",
+      "completed_at": "2026-04-08T10:37:15.855546+00:00",
+      "output": "production/output/ep01/final.mp4",
+      "size_mb": 14.5
     }
   }
 }
